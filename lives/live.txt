@@ -258,7 +258,7 @@ Smart 知識台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5
 東森購物二台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/174
 東森購物三台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/287
 東森購物四台,http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/4gtv/286
-肥羊TV-全网,#genre#
+肥羊-TV-全网,#genre#
 cctv1-高码,http://iptv.887979.xyz/ysptp/cctv1.m3u8?url=http://iptv.887979.xyz
 CCTV-1,http://iptv.887979.xyz/itv/6000000001000029752.m3u8?cdn=wasusyt
 CCTV-1-50-FPS,http://iptv.887979.xyz/itv/5000000004000002226.m3u8?cdn=bestzb
