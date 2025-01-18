@@ -1,5 +1,6 @@
 联系方式-全网,#genre#
 QQ群号：831617073,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
+
 把家里路由器,http://maomao.kandiantv.cn/douyu1.php?id=4246519
 换成支持ipv6,http://www.lizhinas.top:8688/rtp/239.252.220.179:5140
 支持所有线路,http://live.dxms.top/dwy/jyjc.php
@@ -3347,18 +3348,6 @@ dj舞曲英雄泪,https://vd3.bdstatic.com/mda-mkt45tnypacz3smk/sc/cae_h264/1638
 启航2024 CCTV跨年晚会【CCTV综艺频道】,https://v10.dious.cc/20240101/jb33ogNp/index.m3u8
 2024年珠江春节联欢晚会,https://v10.dious.cc/20240209/lNN6pUqq/index.m3u8
 2024年中央广播电视总台网络春节联欢晚会【CCTV综合频道】,https://ikcdn01.ikzybf.com/20240205/QBNgom4j/2000kb/hls/index.m3u8
-港澳财经-_888全网,#genre#
-⑥开心转播线路1,https://vdm6-ali.wujiekeji1.com/live/h6-2.flv
-⑥开心转播线路2,https://vdm6-hw.nbgdsygs.com/live/h6-2.flv
-⑥香港21:30八五,rtmp://ccc.jihbcr.com/live/kkk
-@新熬21:31一三,https://play666.macau-lhc.live/live/mosixmark.flv
-@新熬21:31一七,https://play888.00853lhc.live/live/mosixmark.flv
-@新熬21:31三三,https://play888.00853lhc.live/live/mosixmark.flv?t=1710336821937
-@老熬21:32一二,https://vdm6-ali.oujinghb.com/live/2032-2.flv
-@老熬21:32采家,https://vdm6-hw.qunleniuniu.com/live/2032-2.flv
-@老熬21:32一三,https://vdm6-ali.hrypl168.com/live/a6.flv
-@老熬21:32播放,https://vdm6-ali.kavimmensucat.com/live/2032-2.flv
-
 
 167需要科学［美］节,#genre#
 TVB翡翠台,p3p://167.114.175.6:55331/66c04cec000a20ac2dbf03c71cf661c9
@@ -4490,7 +4479,7 @@ MDIInavahang,https://hls.navahang.live/hls/stream.m3u8
 MDIIenhdtv,https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
 MDIINGradio,http://live.streams.ovh:1935/NGradio/NGradio/playlist.m3u8
 MDIIocko,https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/playlist.m3u8
-MDIIvcp, p  Z  [    j& ޮ  U  
+MDIIvcp,�p��Z��[����j&�ޮ�U��
 MDIIstream,http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 MDIImypiay,https://vcp.myplaytv.com/panavision/panavision/playlist.m3u8
 MDIIpanik,https://livetv.streams.ovh:1936/paniktv/paniktv/playlist.m3u8
