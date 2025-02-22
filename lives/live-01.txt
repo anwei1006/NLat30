@@ -187,7 +187,7 @@ CCTV-17,https://www.freetv.top/migu/673168256.m3u8?migutoken=cd9ac55fddf5f22ac00
 CCTV-17,http://newtv.fun:35455/gaoma/cctv17.m3u8
 CETV4,https://gcalic.v.myalicdn.com/gc/wgw05_1/index.m3u8?contentid=2820180516001
 
-💰央视付费频道,#genre#
+💰央视付费,#genre#
 央视台球,http://183.11.239.36:808/hls/73/index.m3u8
 风云足球,http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2140&tk=f6cc1e0a0e1a
 风云足球,http://183.11.239.36:808/hls/133/index.m3u8
