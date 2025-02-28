@@ -1271,12 +1271,9 @@ CCTV-15,http://123.182.60.29:9002/hls/15/index.m3u8
 
 
 
-㊙频道密码,#genre#
-关注公众号,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAgypLV4gUo-ZmUhwc.mp4
-宝盒APP,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
-发送影视仓,http://15799848.s21v.faiusr.com/58/ABUIABA6GAAglZTV4gUo1tiHrgM.mp4
 
-㊙快乐频道_00123,#genre# 
+
+㊙快乐频道,#genre# 
 韩国歌团001,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240095359203.mp4
 韩国歌团002,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239978750464.mp4
 韩国歌团003,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/239858729476.mp4
