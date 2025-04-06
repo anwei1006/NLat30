@@ -433,7 +433,7 @@ NHK世界台,http://211.75.171.121:8553/http/61.67.128.137:8081/hls/62/804/ch006
 MOMO綜合,http://211.75.171.121:8502/http/61.67.128.137:8081/hls/76/818/momo_4max.m3u8
 MOMO親子,http://211.75.171.121:8522/http/61.67.128.137:8081/hls/90/80/momo4max.m3u8
 法国时装,http://lb.streaming.sk/fashiontv/stream/chunklist_w1702070444.m3u8
-北京移动ipv6-全网,#genre#
+北京移动-全网,#genre#
 
 CCTV1,http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
 CCTV3,http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226456/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E_6GNVcVOz9Xub8CclyMRUg%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
