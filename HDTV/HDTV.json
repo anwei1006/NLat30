@@ -135,6 +135,12 @@
             "searchable": 1,
             "quickSearch": 1,
             "filterable": 1
+        }，
+        {
+            "key": "三六零",
+            "name": "🎦三六秒播",
+            "type": 3,
+            "api": "csp_SP360"
         },
         {
             "key": "耐看影视",
@@ -160,14 +166,6 @@
             "api": "csp_Xdai",
             "playerType": 1,
             "ext": "jaHR0cHM6Ly95ZHlzZHluYW1pY2RvbWFpbm5hbWUuNjguZ3k6MTA2NzgvYzltMmpzMjk4eDgyaDYvbDltOGJ4MjNqMm8ycDlxL2R5bmFtaWNkb21haW5uYW1lLnR4dHxrOW8zcDJjOGI3bTN6MG84fGs5bzNwMmM4YjdtM3owbzh8MTAw"
-        },
-        {
-            "key": "人人",
-            "name": "🎦人人秒播",
-            "type": 3,
-            "api": "csp_Xdai",
-            "playerType": 1,
-            "ext": "jaHR0cHM6Ly9zdmlwMS5mdW58bGFvZGllc2Rhd3Nzd2FzZHxsYW9kaWVzZGF3c3N3YXNkfDI5OGU1ZmUyOWM3NGIzNWFhYmI5ODM2ZWUyZjZmNDQ5ZnwxMDU="
         },
         {
             "key": "量子",
@@ -566,6 +564,37 @@
             "quickSearch": 1,
             "filterable": 1,
             "ext": "./json/河马短剧.json"
+        }，  		
+        {
+            "key": "56动漫",
+            "name": "🎬五六动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/56动漫.js"
+        },
+        {
+            "key": "NT动漫",
+            "name": "🎬逆天动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/NT动漫.js"
+        },
+        {
+            "key": "曼波动漫",
+            "name": "🎬曼波动漫",
+            "type": 3,
+            "api": "csp_Xdai",
+            "searchable": 1,
+            "quickSearch": 0,
+            "filterable": 0,
+            "ext": "jaHR0cHM6Ly9hcHAub21vZnVuMS50b3AvYXBpLnBocHw2NmRjMzA5Y2JlZWNhNDU0fDY2ZGMzMDljYmVlY2E0NTR8MTAw"
+        },
+        {
+            "key": "奇米动漫",
+            "name": "🎬‍奇米动漫",
+            "type": 3,
+            "api": "./api/drpy2.min.js",
+            "ext": "./js/奇米动漫.js"
         },
         {
             "key": "央视大全",
