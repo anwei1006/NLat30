@@ -86,6 +86,28 @@
             "filterable": 1
         },
         {
+            "key": "QD4K",
+            "name": "🎦强大秒播",
+            "type": 3,
+            "api": "csp_AppYsV2",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://172.83.156.150:1010/api.php/app/"
+        },		
+        {
+            "key": "热播影视",
+            "name": "🎦热播影视",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
             "key": "茶狐杯",
             "name": "🎦茶杯影视",
             "type": 3,
