@@ -73,7 +73,7 @@
             "type": 3,
             "api": "./api/drpy2.min.js",
             "ext": "./js/爱奇艺弹幕.js"
-	}，    
+	},
 	{
             "key": "晴天",
             "name": "🎦晴天4K源",
@@ -88,20 +88,20 @@
                 "version": "119"
             }
         },
-	    {
-			"key": "雄鹰",
-			"name": "🎦雄鹰4k源",
-			"type": 3,
-			"quickSearch": 1,
-			"api": "csp_AppGet2",
-			"ext": {
-			    "url": "http://122.228.193.2:9988",
-				"dataKey": "ca94b06ca359d80e",
-				"dataIv": "ca94b06ca359d80e",
-				"deviceId": "",
-				"version": "120"
-			  }
-		},
+	{
+	        "key": "雄鹰",
+		"name": "🎦雄鹰4k源",
+		"type": 3,
+		"quickSearch": 1,
+		"api": "csp_AppGet2",
+		"ext": {
+		    "url": "http://122.228.193.2:9988",
+		    "dataKey": "ca94b06ca359d80e",
+		    "dataIv": "ca94b06ca359d80e",
+		    "deviceId": "",
+		    "version": "120"
+		}
+	},
         {
             "key": "橘猫",
             "name": "🎦橘猫4k源",
